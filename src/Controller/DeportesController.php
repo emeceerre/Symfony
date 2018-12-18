@@ -16,6 +16,13 @@ class DeportesController
      * @Route("/")
      */
     public function inicio(){
-        return new Response('Mi primera página en Symfony usando Annotation Route!');
+        return new Response('Mi primera página en Symfony!');
+    }
+
+    /**
+     * @Route("/deportes")
+     */
+    public function deportes_inicio(){
+        return new Response("Mi página de deportes!");
     }
 }
