@@ -27,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Controller/DeportesController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+            <state relative-caret-position="306">
+              <caret line="32" column="64" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
               <folding>
                 <element signature="e#114#160#0#PHP" expanded="true" />
               </folding>
@@ -96,7 +96,7 @@
       <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="100" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -188,15 +188,16 @@
       <workItem from="1545056377977" duration="164000" />
       <workItem from="1545056574615" duration="84000" />
       <workItem from="1545062168681" duration="106000" />
-      <workItem from="1545158046795" duration="3793000" />
+      <workItem from="1545158046795" duration="4161000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4241000" />
+    <option name="totallyTimeSpent" value="4609000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1618" height="870" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30220494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -232,8 +233,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Controller/DeportesController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+        <state relative-caret-position="306">
+          <caret line="32" column="64" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
           <folding>
             <element signature="e#114#160#0#PHP" expanded="true" />
           </folding>

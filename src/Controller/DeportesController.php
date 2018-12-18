@@ -25,4 +25,11 @@ class DeportesController
     public function deportes_inicio(){
         return new Response("Mi página de deportes!");
     }
+
+    /**
+     * @Route("/deportes/primer-articulo")
+     */
+    public function mostrar(){
+        return new Response("Mi primera ruta Primer Artículo!");
+    }
 }
